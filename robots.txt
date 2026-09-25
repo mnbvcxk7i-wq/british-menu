@@ -1,6 +1,4 @@
-text
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
-
+Sitemap: https://britishmenu.generatornamechina.com/sitemap.xml
