@@ -1,13 +1,88 @@
-xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-    <!-- Homepage -->
     <url>
-        <loc>https://YOUR-DOMAIN.com/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
+        <loc>https://britishmenu.generatornamechina.com/</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/contact.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/privacy.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/fish-and-chips.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/full-english-breakfast.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/shepherds-pie.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/cottage-pie.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/sunday-roast.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/bangers-and-mash.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/toad-in-the-hole.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/sticky-toffee-pudding.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/apple-crumble.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/eton-mess.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/spotted-dick.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/ploughmans-lunch.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/jacket-potato.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/steak-and-kidney-pie.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/fish-pie.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/scotch-egg.html</loc>
+    </url>
+
+    <url>
+        <loc>https://britishmenu.generatornamechina.com/sausage-roll.html</loc>
     </url>
 
 </urlset>
-
